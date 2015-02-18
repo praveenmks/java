@@ -1,5 +1,5 @@
  
-<classpath>
+>classpath>
 	<classpathentry kind="src" output="target/classes" path="src/main/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
